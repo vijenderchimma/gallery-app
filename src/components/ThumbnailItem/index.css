@@ -1,0 +1,12 @@
+/* Write your code here. */
+.list-item {
+  margin-right: 20px;
+}
+.image-button {
+  border: none;
+  background-color: #ffffff;
+}
+.thumbnail-image {
+  width: 100%;
+  filter: blur(1px);
+}
